@@ -3,4 +3,5 @@
        javaScript-class1
        
        https://akhikajol.github.io/javaScript-class1/
+       https://akhikajol.github.io/javaScript-class1/
             
